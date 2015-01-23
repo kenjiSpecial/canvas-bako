@@ -1,6 +1,6 @@
 {
   "name": "canvas-bako",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "canvas-bako is the simple frameworks which make you develop canvas visual easily.",
   "main": "index.js",
   "scripts": {
