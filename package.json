@@ -1,0 +1,27 @@
+{
+  "name": "canvas-bako",
+  "version": "0.0.1",
+  "description": "canvas-bako is the simple frameworks which make you develop canvas visual easily.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kenjiSpecial/canvas-bako"
+  },
+  "keywords": [
+    "canvas",
+    "animation"
+  ],
+  "author": "Kenji Saito",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/kenjiSpecial/canvas-bako/issues"
+  },
+  "homepage": "https://github.com/kenjiSpecial/canvas-bako",
+  "dependencies": {
+    "add-event-listener": "0.0.1",
+    "tape": "^3.4.0"
+  }
+}
